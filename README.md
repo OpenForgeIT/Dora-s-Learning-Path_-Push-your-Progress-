@@ -56,6 +56,11 @@ Welcome to the repository! This guide will walk you through the steps to contrib
 
 ---
 
+## Step 9: Badge Award 🏅
+Once your pull request is successfully merged, you will be awarded **badges** as a token of your contribution. The badges will be sent to the **email address** you have mentioned in your profile within **48 hours**.
+
+---
+
 ## 🙏 Thank You for Your Contribution! 🙏
 
 By following these steps, you'll successfully submit your contributions and help improve the project! Your work is greatly appreciated! 💻✨
